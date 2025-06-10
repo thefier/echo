@@ -1,0 +1,11 @@
+flask
+pydicom
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+torchaudio==2.1.2+cpu
+openai
+ffmpeg-python
+opencv-python-headless
+scikit-image
+scipy
+numpy
